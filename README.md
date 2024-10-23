@@ -21,6 +21,7 @@ Laptop CPU/APU
 - AMD
     - Zen5/5c [Strix Point](https://www.techpowerup.com/325035/amd-strix-point-silicon-pictured-and-annotated#g325035-2)
 - Intel
+    - (6th - 8th) gen [Cannon lake (10nm)](https://x.com/Locuza_/status/1586899983659409413/photo/1)
     - 11th gen (Tiger Lake) [4 core](https://x.com/Locuza_/status/1454152714930331652/photo/1), [8 core](https://x.com/Locuza_/status/1454152714930331652/photo/2)
 
 Customized APU
