@@ -8,7 +8,7 @@ Desktop CPU
       - IOD [zen4/5]([https://www.techpowerup.com/305485/amds-zen-4-i-o-die-detailed-courtesy-of-isscc-presentation#g305485-1](https://x.com/GPUsAreMagic/status/1843054434169081895/photo/3))
      
 - Intel
-    - (6th - 10th) gen [Skylake (2 core)]([https://en.wikichip.org/wiki/File:skylake_(quad-core)_(annotated).png](https://en.wikichip.org/wiki/File:skylake_(dual_core)_(annotated).png)), [Skylake (4 core)](https://en.wikichip.org/wiki/File:skylake_(quad-core)_(annotated).png)
+    - (6th - 10th) gen [Skylake (2 core)](https://en.wikichip.org/wiki/File:skylake_(dual_core)_(annotated).png), [Skylake (4 core)](https://en.wikichip.org/wiki/File:skylake_(quad-core)_(annotated).png)
     - 11th gen [Rocket Lake](https://x.com/Locuza_/status/1454152714930331652/photo/3)
     - (12th - 14th) gen [Alder Lake](https://locuza.substack.com/p/die-walkthrough-alder-lake-sp-and), [Raptor Lake](https://substack.com/@locuza/p-69094195)
     - Ultra 2 [Arrow Lake](https://x.com/GPUsAreMagic/status/1848749030009937965/photo/1)
